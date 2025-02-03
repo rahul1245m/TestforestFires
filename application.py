@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 
-application = app = Flask(__name__)
+application = Flask(__name__)
 app = application
 
 ## import ridge regressor and standard scaler
